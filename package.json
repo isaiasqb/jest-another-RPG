@@ -1,0 +1,28 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "rpg game built following OOP and TDD guidelines",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaiasqb/jest-another-RPG.git"
+  },
+  "keywords": [
+    "rpg",
+    "game",
+    "OPP",
+    "TDD"
+  ],
+  "author": "isaiasqb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isaiasqb/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/isaiasqb/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
