@@ -24,5 +24,8 @@
   "homepage": "https://github.com/isaiasqb/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.2"
   }
 }
